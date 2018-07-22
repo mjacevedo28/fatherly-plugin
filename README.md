@@ -6,17 +6,26 @@ This plugin creates a shortcode that can be used by the user to add srcset attri
 ## Installation
 ### Manual Installation
 **1.** Download the .zip file
+
 **2.** Unarchive the .zip file in the wp-content/plugins folder of your Wordpress directory
+
 **3.** Log in to the backend of your Wordpress site
+
 **4.** Navigate to the plugins page and find the "Fatherly Srcet Plugin"
+
 **5.** Click "Activate" and you're all set!
 
 ### Automated Installation
 **1.** Download the .zip file
+
 **2.** Log in to the backend of your Wordpress site
+
 **3.** Navigate to the plugins page and click "Add New"
+
 **4.** Click "Upload Plugin"
+
 **5.** Click "Choose File" and upload the .zip file you downloaded
+
 **6.** After installation completes, click "Activate," and you're all set!
 
 ## Instructions 
